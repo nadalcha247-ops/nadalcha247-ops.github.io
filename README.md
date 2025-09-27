@@ -289,5 +289,6 @@
     // autosave every 5s
     setInterval(()=>{save();},5000)
   </script>
+  google.com, pub-9738191458373294, DIRECT, f08c47fec0942fa0
 </body>
 </html>
